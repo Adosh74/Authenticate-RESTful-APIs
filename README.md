@@ -1,6 +1,6 @@
 # Authenticate-RESTful-APIs
 
-Basic  RESTful API using (node.js, express and MongoDB)
+Authentication for Basic  RESTful API using (node.js, express and MongoDB) by JWT.
 
 # Usage
 
