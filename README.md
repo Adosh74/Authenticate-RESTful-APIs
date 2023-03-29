@@ -17,7 +17,9 @@ Basic  RESTful API using (node.js, express and MongoDB)
 
 * Run the project by
   ``` bash
-  npm run dev or yarn dev 
+  npm run dev
+  or
+  yarn dev 
    ```
 
 * Finally test all endpoints.
